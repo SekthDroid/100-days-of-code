@@ -7,3 +7,10 @@
 **Thoughts:** It's not code after all, but for me its a simple start after 5 days of vacation.
 
 **Link to work:** [Post (in Spanish)](http://www.sekthdroid.com/2017/01/de-vuelta-y-con-fuerzas-para-el-blog/)
+
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: I have created a new Android project and prepared some doc with the League of Legends API reference I need.
+
+**Thoughts:** It's a little step, but it's something!.
