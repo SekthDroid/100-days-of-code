@@ -14,3 +14,10 @@
 **Today's Progress**: I have created a new Android project and prepared some doc with the League of Legends API reference I need.
 
 **Thoughts:** It's a little step, but it's something!.
+
+
+### Day 3: January 4, 2017
+
+**Today's Progress**: Worked on a sample app to learn about Android integration with Beacons.
+
+**Thoughts:** It has been a good experience, and I have learned a lot about Bluetooth handling in Android, and what I need to have in mind about battery life.
