@@ -28,3 +28,9 @@
 **Today's Progress**: Implemented some cache system for one of my pet projects using TDD.
 
 **Thoughts:** It has been so slow for me, but the confidence of all tests passing is a wonderful feedback about the system. Im in love with TDD.
+
+### Day 5: January 4, 2017
+
+**Today's Progress**: Fixed some bugs in one of my pet projects.
+
+**Thoughts:** This was a bug that I didnt know about, but its clearly my fault, no tests with the given case, so i didnt know about it.
