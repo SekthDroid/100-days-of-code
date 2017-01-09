@@ -16,21 +16,27 @@
 **Thoughts:** It's a little step, but it's something!.
 
 
-### Day 3: January 4, 2017
+### Day 3: January 5, 2017
 
 **Today's Progress**: Worked on a sample app to learn about Android integration with Beacons.
 
 **Thoughts:** It has been a good experience, and I have learned a lot about Bluetooth handling in Android, and what I need to have in mind about battery life.
 
 
-### Day 4: January 4, 2017
+### Day 4: January 6, 2017
 
 **Today's Progress**: Implemented some cache system for one of my pet projects using TDD.
 
 **Thoughts:** It has been so slow for me, but the confidence of all tests passing is a wonderful feedback about the system. Im in love with TDD.
 
-### Day 5: January 4, 2017
+### Day 5: January 7, 2017
 
 **Today's Progress**: Fixed some bugs in one of my pet projects.
 
 **Thoughts:** This was a bug that I didnt know about, but its clearly my fault, no tests with the given case, so i didnt know about it.
+
+### Day 6: January 9, 2017
+
+**Today's Progress**: Implemented some new api endpoints in one of my Android Apps.
+
+**Thoughts:** With this implementation, Im finishing my sprint of features, so a new release will be out soon!.
