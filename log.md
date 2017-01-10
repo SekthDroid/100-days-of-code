@@ -40,3 +40,9 @@
 **Today's Progress**: Implemented some new api endpoints in one of my Android Apps.
 
 **Thoughts:** With this implementation, Im finishing my sprint of features, so a new release will be out soon!.
+
+### Day 7: January 10, 2017
+
+**Today's Progress**: Refactored some Tests code to improve testing against databases.
+
+**Thoughts:** Im in love with Testing, and in my app is an important feature to testing the database layer, because its like a CRUD application.
