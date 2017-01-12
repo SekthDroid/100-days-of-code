@@ -29,11 +29,13 @@
 
 **Thoughts:** It has been so slow for me, but the confidence of all tests passing is a wonderful feedback about the system. Im in love with TDD.
 
+
 ### Day 5: January 7, 2017
 
 **Today's Progress**: Fixed some bugs in one of my pet projects.
 
 **Thoughts:** This was a bug that I didnt know about, but its clearly my fault, no tests with the given case, so i didnt know about it.
+
 
 ### Day 6: January 9, 2017
 
@@ -41,8 +43,18 @@
 
 **Thoughts:** With this implementation, Im finishing my sprint of features, so a new release will be out soon!.
 
+
 ### Day 7: January 10, 2017
 
 **Today's Progress**: Refactored some Tests code to improve testing against databases.
 
 **Thoughts:** Im in love with Testing, and in my app is an important feature to testing the database layer, because its like a CRUD application.
+
+
+### Day 8: January 12, 2017
+
+**Today's Progress**: Added some Espresso samples to my EspressoSample repository.
+
+**Thoughts:** After 2 days, Its awesome to publish some new work to the people.
+
+**Link to work:** [EspressoSamples](https://github.com/SekthDroid/EspressoSamples)
