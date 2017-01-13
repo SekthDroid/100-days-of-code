@@ -58,3 +58,10 @@
 **Thoughts:** After 2 days, Its awesome to publish some new work to the people.
 
 **Link to work:** [EspressoSamples](https://github.com/SekthDroid/EspressoSamples)
+
+
+### Day 9: January 13, 2017
+
+**Today's Progress**: Tried to test an Activity without dagger, but at least I've learned something.
+
+**Thoughts:** I should practice more seting up an App from scratch with Dagger2.
